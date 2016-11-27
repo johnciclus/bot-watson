@@ -1,0 +1,18 @@
+{
+    "PORT": "8000",
+    "WORKSPACE": "24dd2c0a-e0bf-4c38-985e-beb596f3a3ba",
+    "password": "YcL1oZAYTPUU",
+    "username": "98cd23eb-9e11-4843-bad6-69447c105912",
+    "url": "https://gateway.watsonplatform.net/conversation/api",
+    "version_date": "2016-09-20",
+    "version": "v1",
+    "FACEBOOK_APP_ID": "750047798482739",
+    "APP_SECRET": "86d47cef7eaf8896dca2e418aae7fb3f",
+    "PAGE_ACCESS_TOKEN": "EAAKqKhyX1zMBAEtEDtdaQcYxN5aNTrBxoZCaWJWttB3SFSMFvKZBcDyJuG29zqWZAIk5tKoQU8dShG886KNYHpKTNeGaczQzJX5KEeQ9ZCPzBFQs5uBPzraZCuZCS8EUQ9FQvRCNGl7vBX1zFxzqanC8ZB2XloysvZAnJDrQ2HSIdQZDZD",
+    "VALIDATION_TOKEN": "3OWj6NfHYNv3BIiRAHhSJ3pKQFUJj5WhEFzmTbZsJLflWw8lp8Y37aIw4aSS",
+    "SERVER_URL": "https://5f9a7f3e.ngrok.io/",
+    "REDIRECT_URI": "https://5f9a7f3e.ngrok.io/",
+    "GOOGLE_MAPS_URL": "https://maps.googleapis.com/maps/api/staticmap",
+    "GOOGLE_MAPS_KEY": "AIzaSyDe2X7qvYFpfEFb1V6ANA-7OhCeukb6lnI",
+    "FACEBOOK_GRAPH": "https://graph.facebook.com/v2.8/"
+}
