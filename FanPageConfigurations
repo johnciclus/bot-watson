@@ -1,0 +1,16 @@
+curl -X POST -H "Content-Type: application/json" -d '{
+  "setting_type":"greeting",
+  "greeting":{
+    "text":"Medebot es bot del Facebook Messenger desarrollado para la hackaton cognitiva"
+  }
+}' "https://graph.facebook.com/v2.6/me/thread_settings?access_token=EAAKqKhyX1zMBAEtEDtdaQcYxN5aNTrBxoZCaWJWttB3SFSMFvKZBcDyJuG29zqWZAIk5tKoQU8dShG886KNYHpKTNeGaczQzJX5KEeQ9ZCPzBFQs5uBPzraZCuZCS8EUQ9FQvRCNGl7vBX1zFxzqanC8ZB2XloysvZAnJDrQ2HSIdQZDZD"
+
+curl -X POST -H "Content-Type: application/json" -d '{
+  "setting_type":"call_to_actions",
+  "thread_state":"new_thread",
+  "call_to_actions":[
+    {
+      "payload":"Greeting"
+    }
+  ]
+}' "https://graph.facebook.com/v2.6/me/thread_settings?access_token=EAAKqKhyX1zMBAEtEDtdaQcYxN5aNTrBxoZCaWJWttB3SFSMFvKZBcDyJuG29zqWZAIk5tKoQU8dShG886KNYHpKTNeGaczQzJX5KEeQ9ZCPzBFQs5uBPzraZCuZCS8EUQ9FQvRCNGl7vBX1zFxzqanC8ZB2XloysvZAnJDrQ2HSIdQZDZD"
