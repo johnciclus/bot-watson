@@ -15,26 +15,14 @@
   },
   "license": "Apache-2.0",
   "dependencies": {
-    "babel-cli": "^6.18.0",
-    "babel-eslint": "^6.0.4",
-    "babel-preset-es2015": "^6.18.0",
-    "babel-preset-stage-0": "^6.16.0",
-    "babel-preset-stage-2": "^6.18.0",
     "body-parser": "^1.15.2",
     "cfenv": "^1.0.3",
-    "codecov": "^1.0.1",
     "config": "^1.24.0",
-    "eslint": "^2.8.0",
-    "eslint-config-airbnb-es5": "^1.0.9",
-    "eslint-plugin-react": "^5.1.1",
     "express": "^4.14.0",
-    "istanbul": "^0.4.2",
-    "mocha": "^2.4.5",
-    "nodemon": "^1.11.0",
+    "object-assign": "^4.1.0",
     "redux": "^3.6.0",
     "redux-thunk": "^2.1.0",
     "request-promise": "^4.1.1",
-    "supertest": "^1.2.0",
     "underscore": "^1.8.3",
     "watson-developer-cloud": "^2.11.0"
   },
@@ -55,6 +43,7 @@
     "istanbul": "^0.4.2",
     "mocha": "^2.4.5",
     "nodemon": "^1.11.0",
+    "object-assign": "^4.1.0",
     "redux": "^3.6.0",
     "redux-thunk": "^2.1.0",
     "request-promise": "^4.1.1",
@@ -62,9 +51,9 @@
     "underscore": "^1.8.3",
     "watson-developer-cloud": "^2.11.0"
   },
-  "repository" : {
-    "type" : "git",
-    "url" : "https://github.com/johnciclus/bot-watson.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johnciclus/bot-watson.git"
   },
   "engine": {
     "node": ">= 4.2.4"
