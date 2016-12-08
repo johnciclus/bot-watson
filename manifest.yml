@@ -1,15 +1,9 @@
----
-declared-services:
-  conversation-simple-demo-test1:
-    label: conversation
-    plan: free
 applications:
-- name: conversation-medebot
-  command: npm start
-  path: .
+- path: .
+  name: medebot
+  host: medebot
+  domain: mybluemix.net
   memory: 256M
+  disk_quota: 1024M
   instances: 1
-  services:
-  - conversation-simple-demo-test1
-  env:
-    NPM_CONFIG_PRODUCTION: false
+  command: npm run serve

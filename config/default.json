@@ -19,10 +19,10 @@
 
     "FACEBOOK_APP_ID": "750047798482739",
     "APP_SECRET": "86d47cef7eaf8896dca2e418aae7fb3f",
-    "PAGE_ACCESS_TOKEN": "EAAKqKhyX1zMBAEtEDtdaQcYxN5aNTrBxoZCaWJWttB3SFSMFvKZBcDyJuG29zqWZAIk5tKoQU8dShG886KNYHpKTNeGaczQzJX5KEeQ9ZCPzBFQs5uBPzraZCuZCS8EUQ9FQvRCNGl7vBX1zFxzqanC8ZB2XloysvZAnJDrQ2HSIdQZDZD",
+    "PAGE_ACCESS_TOKEN": "EAAKqKhyX1zMBAEJ738QjfujFDE2Bdm2LqLOS4AIwJHaCTRC1bu1G2247uZCsBI1yZBNtKTBSxSdn7sAC8s8DXZAnwIljhxZCdKZCQ7CUraAIup5n1qTl1ZAdKFzqtZB9Vd8MLdoPIXiXNrRiBbguc7LBvNyMM16dyW3nTVUCt8XbQZDZD",
     "VALIDATION_TOKEN": "3OWj6NfHYNv3BIiRAHhSJ3pKQFUJj5WhEFzmTbZsJLflWw8lp8Y37aIw4aSS",
-    "SERVER_URL": "https://55fc6785.ngrok.io/",
-    "REDIRECT_URI":"https://55fc6785.ngrok.io/",
+    "SERVER_URL": "https://6ea0e6af.ngrok.io/",
+    "REDIRECT_URI":"https://6ea0e6af.ngrok.io/",
     "GOOGLE_MAPS_URL": "https://maps.googleapis.com/maps/api/staticmap",
     "GOOGLE_MAPS_KEY": "AIzaSyDe2X7qvYFpfEFb1V6ANA-7OhCeukb6lnI",
     "FACEBOOK_GRAPH": "https://graph.facebook.com/v2.8/"
