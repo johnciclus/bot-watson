@@ -9,3 +9,7 @@ bluemix login -u john@ciclus.co -o ciclus -s dev
 * Deploy your app to Bluemix
 
 cf push "medebot"
+
+* Access your app 
+
+medebot.mybluemix.net

@@ -19,10 +19,10 @@
 
     "FACEBOOK_APP_ID": "750047798482739",
     "APP_SECRET": "86d47cef7eaf8896dca2e418aae7fb3f",
-    "PAGE_ACCESS_TOKEN": "EAAKqKhyX1zMBAEJ738QjfujFDE2Bdm2LqLOS4AIwJHaCTRC1bu1G2247uZCsBI1yZBNtKTBSxSdn7sAC8s8DXZAnwIljhxZCdKZCQ7CUraAIup5n1qTl1ZAdKFzqtZB9Vd8MLdoPIXiXNrRiBbguc7LBvNyMM16dyW3nTVUCt8XbQZDZD",
+    "PAGE_ACCESS_TOKEN": "EAAKqKhyX1zMBAKsTQ2XawZCqlVJ8uZBI11Yt7mOJXwV705PIsO91XV8U1dy9yKYWvP3RUyZBOkZBdgosaUC9axCrVzPYaALtjn0pGDQsktZC1sSmYfJR8IRKjXZAwLnZCFSBUeWr7ZAiTIhRTdcwm3CkbXiJck9eLZAdrJrZBZA9ja7vQZDZD",
     "VALIDATION_TOKEN": "3OWj6NfHYNv3BIiRAHhSJ3pKQFUJj5WhEFzmTbZsJLflWw8lp8Y37aIw4aSS",
-    "SERVER_URL": "https://6ea0e6af.ngrok.io/",
-    "REDIRECT_URI":"https://6ea0e6af.ngrok.io/",
+    "SERVER_URL": "https://medebot.mybluemix.net/",
+    "REDIRECT_URI":"https://medebot.mybluemix.net/",
     "GOOGLE_MAPS_URL": "https://maps.googleapis.com/maps/api/staticmap",
     "GOOGLE_MAPS_KEY": "AIzaSyDe2X7qvYFpfEFb1V6ANA-7OhCeukb6lnI",
     "FACEBOOK_GRAPH": "https://graph.facebook.com/v2.8/"
